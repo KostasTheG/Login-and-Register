@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kostas\.android\build-cache\af6c0890f484a9c35302e56eb1c7e1146867510e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kostas\.android\build-cache\ac31cd51d13f3d7321cee35e147999b5e210add4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\073e7c46705d957aaa034a7925d675bc838d9e45\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\644da9151150a519bf83f0e8b2b96ddffda7a51d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kostas\.android\build-cache\f54c12622f0e23e248882ed32d311bd1969b29f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kostas\.android\build-cache\4bd1ab96483a5e83e925543ec6d56cc73e4cd431\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kostas\.android\build-cache\e48f13db77659eabde677e19e4c8092c6a80ebfb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kostas\.android\build-cache\f32288548e036508dde9154aece39c76114057fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kostas\.android\build-cache\8cfc39dcf59ac694514ed61eaf4bb295dcd59eba\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kostas\.android\build-cache\fc702946ff83760c57d63147ea56be0ea7ed17f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kostas\.android\build-cache\ce32693aa8ab7fcaa84814addae95f36d29f88d2\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.kostas.register.MainActivity
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kostas\.android\build-cache\af6c0890f484a9c35302e56eb1c7e1146867510e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kostas\.android\build-cache\ac31cd51d13f3d7321cee35e147999b5e210add4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\073e7c46705d957aaa034a7925d675bc838d9e45\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\644da9151150a519bf83f0e8b2b96ddffda7a51d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kostas\.android\build-cache\088eb9dabc76eb6b656275a5f80721d2c68a6b4d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kostas\.android\build-cache\f54c12622f0e23e248882ed32d311bd1969b29f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kostas\.android\build-cache\4bd1ab96483a5e83e925543ec6d56cc73e4cd431\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kostas\.android\build-cache\e48f13db77659eabde677e19e4c8092c6a80ebfb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kostas\.android\build-cache\f32288548e036508dde9154aece39c76114057fe\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kostas\.android\build-cache\8cfc39dcf59ac694514ed61eaf4bb295dcd59eba\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kostas\.android\build-cache\fc702946ff83760c57d63147ea56be0ea7ed17f0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kostas\.android\build-cache\ce32693aa8ab7fcaa84814addae95f36d29f88d2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kostas\AndroidStudioProjects\Register\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kostas\.android\build-cache\ac31cd51d13f3d7321cee35e147999b5e210add4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\073e7c46705d957aaa034a7925d675bc838d9e45\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kostas\.android\build-cache\644da9151150a519bf83f0e8b2b96ddffda7a51d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kostas\.android\build-cache\088eb9dabc76eb6b656275a5f80721d2c68a6b4d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kostas\.android\build-cache\f54c12622f0e23e248882ed32d311bd1969b29f5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kostas\.android\build-cache\4bd1ab96483a5e83e925543ec6d56cc73e4cd431\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kostas\.android\build-cache\e48f13db77659eabde677e19e4c8092c6a80ebfb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kostas\.android\build-cache\f32288548e036508dde9154aece39c76114057fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kostas\.android\build-cache\8cfc39dcf59ac694514ed61eaf4bb295dcd59eba\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kostas\.android\build-cache\fc702946ff83760c57d63147ea56be0ea7ed17f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kostas\.android\build-cache\ce32693aa8ab7fcaa84814addae95f36d29f88d2\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kostas\.android\build-cache\2c34ccb0e9cdce06b8ff5261b80ebe62140795f8\output\AndroidManifest.xml:26:9-47
